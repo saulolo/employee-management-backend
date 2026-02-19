@@ -1,6 +1,7 @@
-package edu.employeemanagement.exception;
+package edu.employeemanagement.handler;
 
 import edu.employeemanagement.domain.dto.response.ApiResponseDTO;
+import edu.employeemanagement.exception.ApiException;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;

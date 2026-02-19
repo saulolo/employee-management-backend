@@ -27,6 +27,7 @@ public final class Constants {
 
     // ========== MENSAJES DE ERROR ==========
     public static final String EMPLOYEE_NOT_FOUND = "Empleado no encontrado con ID: %d";
+    public static final String EMPLOYEE_NOT_FOUND_EMAIL = "Empleado no encontrado con email: %s";
     public static final String EMAIL_ALREADY_EXISTS = "El email '%s' ya está registrado en el sistema.";
     public static final String INVALID_EMAIL_FORMAT = "El formato del email '%s' no es válido.";
 

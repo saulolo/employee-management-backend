@@ -1,5 +1,6 @@
 package edu.employeemanagement.exception;
 
+import edu.employeemanagement.handler.GlobalExceptionHandler;
 import org.springframework.http.HttpStatus;
 
 import static edu.employeemanagement.util.Constants.INTERNAL_SERVER_ERROR;
